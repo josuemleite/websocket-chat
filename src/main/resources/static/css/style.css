@@ -23,6 +23,10 @@ body {
     height: 100%;
 }
 
+noscript h2 {
+    text-align: center;
+}
+
 .clearfix:after {
     display: block;
     content: "";
